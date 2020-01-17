@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+}
+
+.container-fluid {
+    margin: 1.5% 0 1.5% 0;
+}
+
+.row {
+    margin: 0;
+}
+
+.nav-link{
+    border: 1px solid gainsboro;
+}
+
+.card-genre{
+    padding: 5px;
+    background-color: lightblue;
+    font-size: 0.7em;   
+}
+
+
